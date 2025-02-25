@@ -1,0 +1,12 @@
+{
+  "unchainedPack:SympathyLinkAction": {
+    "TEXT": [
+      "选择一张卡牌"
+    ]
+  },
+  "unchainedPack:RoyalInfluenceAction": {
+    "TEXT": [
+      " to exhaust and convert into a chain for your teammates"
+    ]
+  }
+}

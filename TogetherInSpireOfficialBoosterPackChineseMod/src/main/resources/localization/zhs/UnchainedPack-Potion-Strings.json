@@ -1,0 +1,18 @@
+{
+  "unchainedPack:ArcaneGrenade": {
+    "NAME": "神秘榴弹",
+    "DESCRIPTIONS": ["所有玩家获得 #b", " #yRelay."]
+  },
+  "unchainedPack:ChainHex": {
+    "NAME": "链式反应",
+    "DESCRIPTIONS": ["完成所有队友的项链并使 #b1 条 #y技能 #y项链 生效：获得 #b", " #y格挡。"]
+  }       ,
+  "unchainedPack:SingularityPotion": {
+    "NAME": "奇点药水",
+    "DESCRIPTIONS": ["使 #b", " #yCrushed #yArmor 对所有队友生效。"]
+  }       ,
+  "unchainedPack:StrongPerfume": {
+    "NAME": "浓烈香水",
+    "DESCRIPTIONS": ["所有玩家获得 #b", " #ySwirl."]
+  }
+}

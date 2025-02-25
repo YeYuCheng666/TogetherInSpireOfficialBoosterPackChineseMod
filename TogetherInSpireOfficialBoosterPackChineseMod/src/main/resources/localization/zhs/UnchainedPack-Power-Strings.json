@@ -1,0 +1,144 @@
+{
+  "unchainedPack:HelperChainDrawCardPower": {
+    "NAME": "技能项链",
+    "DESCRIPTIONS": [
+      "如果你本回合打出超过 #b1 张技能牌，抽 #b",
+      " 张牌。"
+    ]
+  },
+  "unchainedPack:HelperChainGainBlockPower": {
+    "NAME": "技能项链",
+    "DESCRIPTIONS": [
+      "如果你本回合打出超过 #b1 张技能牌，获得 #b",
+      " 点格挡。"
+    ]
+  },
+  "unchainedPack:HelperChainGainVigorPower": {
+    "NAME": "技能项链",
+    "DESCRIPTIONS": [
+      "如果你本回合打出超过 #b1 张技能牌，获得 #b",
+      " Vigor."
+    ]
+  },
+  "unchainedPack:HelperChainGainEnergyPower": {
+    "NAME": "技能项链",
+    "DESCRIPTIONS": [
+      "如果你本回合打出超过 #b1 张技能牌，获得 #b",
+      " 点能量."
+    ]
+  },
+  "unchainedPack:HelperChainGainRelayPower": {
+    "NAME": "技能项链",
+    "DESCRIPTIONS": [
+      "如果你本回合打出超过 #b1 张技能牌，获得 #b",
+      " Relay."
+    ]
+  },
+  "unchainedPack:ChaosChainsPower": {
+    "NAME": "混沌项链",
+    "DESCRIPTIONS": [
+      "在你的回合开始时，获得 #b",
+      " 条带有一项能力的技能项链：抽1张牌, 获得6点格挡, 获得 5 Vigor, 获得1点能量或 8 Relay."
+    ]
+  },
+  "unchainedPack:ChainHexChainPower": {
+    "NAME": "技能项链",
+    "DESCRIPTIONS": [
+      "如果你本回合打出超过 #b1 张技能牌，获得 #b",
+      " 点格挡."
+    ]
+  },
+  "unchainedPack:DeepCutChainPower": {
+    "NAME": "攻击项链",
+    "DESCRIPTIONS": [
+      "如果你本回合打出超过 #b1 张攻击牌，造成 #b",
+      " 点伤害."
+    ]
+  },
+  "unchainedPack:SoftenTargetPower": {
+    "NAME": "软化目标",
+    "DESCRIPTIONS": ["此目标第一次被一名除","之外的玩家攻击时, 获得 #b"," #yCrushed #yArmor."]
+  },
+  "unchainedPack:CrushForcePower": {
+    "NAME": "压制力",
+    "DESCRIPTIONS": ["攻击一名敌人并获得 #b"," #yCrushed #yArmor."]
+  },
+  "unchainedPack:DancingPartnerLeaderPower": {
+    "NAME": "舞伴领队",
+    "DESCRIPTIONS": ["每当你获得 #yMomentum, ", " 获得 #b"," #yMomentum."]
+  },
+  "unchainedPack:DancingPartnerFollowerPower": {
+    "NAME": "舞伴随从",
+    "DESCRIPTIONS": ["每当 ", " 获得 #yMomentum, 你获得 #b"," #yMomentum."]
+  },
+  "unchainedPack:TetheredHeartPower": {
+    "NAME": "束缚之心",
+    "DESCRIPTIONS": ["每当你获得 #yRelay, ", " 获得 #b","% of that #yRelay."]
+  },
+  "unchainedPack:TetheredHeartMusePower": {
+    "NAME": "束缚心灵",
+    "DESCRIPTIONS": ["每当 ", " 获得 #yRelay, 你获得 #b","% of that #yRelay."]
+  },
+  "unchainedPack:NimbleFeetPower": {
+    "NAME": "迅捷脚步",
+    "DESCRIPTIONS": ["费用为0的牌额外造成 #b"," 点伤害。"]
+  },
+  "unchainedPack:DeepCutGiveExtensionPower": {
+    "NAME": "入木三分",
+    "DESCRIPTIONS": ["给予你的队友们 #b"," Extension 当他们加入战斗时."]
+  },
+  "unchainedPack:ViciousBlowsPower": {
+    "NAME": "邪恶打击",
+    "DESCRIPTIONS": ["每当你获得一层负面状态时获得 #b", " #yCrushed #yArmor."]
+  },"unchainedPack:SympatheticShardPower": {
+  "NAME": "悲悯碎片",
+  "DESCRIPTIONS": [
+    "每当 #yCrushed #yArmor 生效时, 你的所有队友都会获得 #b",
+    " 点格挡。"
+  ]
+},
+  "unchainedPack:ArcaneReversalPower": {
+    "NAME": "神秘逆转",
+    "DESCRIPTIONS": ["每当你将要受到 #yRelayed #yDamage, 转而对一名随机敌人造成此伤害。"]
+  },
+  "unchainedPack:SpaghettiArmsPower": {
+    "NAME": "斯帕盖蒂之臂",
+    "DESCRIPTIONS": ["你本回合将无法造成伤害。敌人将会获得等同于你将对他们造成的伤害量的格挡。"]
+  },
+  "unchainedPack:GuardingChainPower": {
+    "NAME": "技能项链",
+    "DESCRIPTIONS": [
+      "如果你本回合打出超过 #b1 张技能牌，获得 #b",
+      " 点格挡."
+    ]
+  },
+  "unchainedPack:DowsingChainPower": {
+    "NAME": "技能项链",
+    "DESCRIPTIONS": [
+      "如果你本回合打出超过 #b1 张技能牌， 就能帮助你的队伍找到一件罕见遗物!"
+    ]
+  },
+  "unchainedPack:ChainStrikePower": {
+    "NAME": "攻击项链",
+    "DESCRIPTIONS": [
+      "如果你本回合打出超过 #b1 张攻击牌，造成 #b",
+      " 点伤害, 同时增加1点此项链的伤害并将其送给一名随机队友。"
+    ]
+  },
+  "unchainedPack:AllForAllPower": {
+    "NAME": "技能项链",
+    "DESCRIPTIONS": [
+      "如果你本回合打出超过 #b1 张技能牌，所有玩家获得 #b1 点力量。",
+      "如果你本回合打出超过 #b",
+      " 张技能牌，所有玩家获得 #b1 点力量。"]
+  },
+  "unchainedPack:RoyalInfluencePower": {
+    "NAME": "技能项链",
+    "DESCRIPTIONS": [
+      "If you play #b1 more ",
+      " this turn, play ",
+      "If you play #b",
+      " more ",
+      " this turn, play "]
+  }
+}

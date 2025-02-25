@@ -1,0 +1,34 @@
+{
+  "unchainedPack:SteampunkThruster": {
+    "NAME": "蒸汽推进器",
+    "FLAVOR": "一个超越时代的精巧装置。它简直是在乞求我们不断前进。",
+    "DESCRIPTIONS": [
+      "在战斗开始时每名队友获得 #b1 #yMomentum .",
+      "theunchainedmod:Momentum"
+    ]
+  },
+  "unchainedPack:FriendshipBracelet": {
+    "NAME": "友谊手链",
+    "FLAVOR": "友谊真是神秘!",
+    "DESCRIPTIONS": [
+      "带着正面效果完成 #yChain 也会对随机队友产生影响。",
+      "theunchainedmod:Chain"
+    ]
+  },
+  "unchainedPack:MasochismIdol": {
+    "NAME": "受虐狂人偶",
+    "FLAVOR": "更多痛苦, 更多痛苦!",
+    "DESCRIPTIONS": [
+      "如果你的队友将要受到未被 #y格挡 的伤害，只要你有额外的 Relay ，你就能代替其吸收伤害。",
+      "theunchainedmod:Relay"
+    ]
+  },
+  "unchainedPack:SympatheticShard": {
+    "NAME": "悲悯碎片",
+    "FLAVOR": "你不确定它是怎么起效的，但你的敌人被打得越惨，你的队伍就越强大.",
+    "DESCRIPTIONS": [
+      "每当 #yCrushed #yArmor 生效时，你的所有队友都会获得 #b1 点 #y格挡 。",
+      "theunchainedmod:Crushed_Armor"
+    ]
+  }
+}

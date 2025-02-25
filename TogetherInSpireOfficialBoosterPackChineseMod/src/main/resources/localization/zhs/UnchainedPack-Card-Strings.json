@@ -1,0 +1,166 @@
+{
+  "unchainedPack:TradeCouncil": {
+    "NAME": "商会",
+    "DESCRIPTION": "所有玩家获得 1 *Trade *Offer. 消耗 。",
+    "UPGRADE_DESCRIPTION": "所有玩家获得 1 *Trade *Offer+. 消耗 。"
+  },
+  "unchainedPack:ArcaneDome": {
+    "NAME": "神秘圆顶",
+    "DESCRIPTION": "所有玩家获得 !M! theunchainedmod:Relay."
+  },
+  "unchainedPack:SoftenTarget": {
+    "NAME": "软化目标",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 当目标第一次被一名队友攻击时，启用 !M! theunchainedmod:Crushed_Armor."
+  },
+  "unchainedPack:CrushForce": {
+    "NAME": "压制力",
+    "DESCRIPTION": "所有玩家获得 !M! 点力量。 NL 每次一名玩家攻击时，启用 !MP_SecondMagic! theunchainedmod:Crushed_Armor."
+  },
+  "unchainedPack:ProtectorGlyph": {
+    "NAME": "护佑符文",
+    "DESCRIPTION": "一名随机的队友获得 !M! theunchainedmod:Relay."
+  },
+  "unchainedPack:TangoStrike": {
+    "NAME": "探戈打击",
+    "DESCRIPTION": " 虚无 。 NL 造成 !D! 点伤害。 NL 获得 !M! theunchainedmod:Momentum. NL 增加一张 *Tango *Strike 到一名随机队友的手中，然后它将 消耗 。",
+    "UPGRADE_DESCRIPTION": " 虚无 。 NL 造成 !D! 点伤害。 NL 获得 !M! theunchainedmod:Momentum. NL 增加一张 *Tango *Strike+ 到一名随机队友的手中，然后它将 消耗 。"
+  },
+  "unchainedPack:GuardingChain": {
+    "NAME": "护佑项链",
+    "DESCRIPTION": "所有玩家获得 1 theunchainedmod:Chain: 获得 !B! 点格挡。"
+  },
+  "unchainedPack:PhantomSwing": {
+    "NAME": "幻影摇摆",
+    "DESCRIPTION": "造成 !D! 点伤害。每名队友都会对一名随机敌人造成 !M! 点伤害。"
+  },
+  "unchainedPack:Dismantle": {
+    "NAME": "拆解",
+    "DESCRIPTION": "移除一名敌人的格挡，且一名随机队友将会获得等量的格挡。",
+    "UPGRADE_DESCRIPTION": "移除一名敌人的格挡，且所有队友将会获得等量的格挡。"
+  },
+  "unchainedPack:ChaosChains": {
+    "NAME": "混沌项链",
+    "DESCRIPTION": "所有玩家在其回合开始时获得一条 unchainedpack:Helper_Chain 。",
+    "UPGRADE_DESCRIPTION": " 固有 。所有玩家在其回合开始时获得一条 unchainedpack:Helper_Chain 。"
+  },
+  "unchainedPack:DancingPartner": {
+    "NAME": "舞伴",
+    "DESCRIPTION": "选择一名队友作为你的舞伴。每当你获得 theunchainedmod:Momentum,你的舞伴将获得 1 theunchainedmod:Momentum. 消耗 。"
+  },
+  "unchainedPack:TalkToTheGlyph": {
+    "NAME": "与符文交谈",
+    "DESCRIPTION": "造成 !D! 点伤害。每当一名玩家攻击此目标，他们将获得 !M! theunchainedmod:Relay. 消耗 。"
+  },
+  "unchainedPack:SympathyLink": {
+    "NAME": "悲悯链接",
+    "DESCRIPTION": "选择一名队友并从其卡组中抽取一张费用为2的卡牌。将此牌加入你和你的队友手中。 消耗 。",
+    "UPGRADE_DESCRIPTION": "选择一名队友并从其卡组中抽取一张已升级的费用为2的卡牌。将此牌加入你和你的队友手中。 消耗 。"
+  },
+  "unchainedPack:SynchronizeMovements": {
+    "NAME": "同步运动",
+    "DESCRIPTION": "获得 !B! 格挡。所有玩家获得 !M! theunchainedmod:Momentum."
+  },
+  "unchainedPack:NimbleFeet": {
+    "NAME": "敏捷步伐",
+    "DESCRIPTION": "所有玩家费用为0的卡牌将造成 !M! 点额外伤害。"
+  },
+  "unchainedPack:DemonsTemptation": {
+    "NAME": "魔鬼的诱惑",
+    "DESCRIPTION": "造成 !D! 点伤害。If played by a class other than *The *Unchained, gain !M! theunchainedmod:Relayed_Damage 并且将一张费用为2的随机卡牌加入你的手中。此牌在本回合费用为0并且消耗。"
+  },
+  "unchainedPack:ChainStrike": {
+    "NAME": "项链打击",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 1 theunchainedmod:Chain: 造成 !M! 点伤害，增加1点这条 *Chain's 的伤害并且将其送给一名随机队友。"
+  },
+  "unchainedPack:TetheredHeart": {
+    "NAME": "束缚之心",
+    "DESCRIPTION": "选择一名队友，这名队友将会获得 !M!% of your theunchainedmod:Relay 在这场战斗中。 消耗 。"
+  },
+  "unchainedPack:AllForAll": {
+    "NAME": "众擎共举",
+    "DESCRIPTION": "所有玩家获得 NL 2 theunchainedmod:Chain: 所有玩家获得1点力量。 消耗 。"
+  },
+  "unchainedPack:TenThousandDemonChains": {
+    "NAME": "万魔之链",
+    "DESCRIPTION": "对一名随机敌人造成 !D! 点伤害 for each theunchainedmod:Chain finished this Combat by all players.",
+    "EXTENDED_DESCRIPTION": [ " NL (1 Chain finished this combat)" ,
+      " NL (!M! Chain finished this combat)"]
+  },
+  "unchainedPack:Sidekick": {
+    "NAME": "伙伴",
+    "DESCRIPTION": "一名随机队友获得 !M! 点敏捷。他在攻击前移厨所有的格挡。 消耗 。",
+    "UPGRADE_DESCRIPTION": "选择一名队友获得 !M! 点敏捷。他们在攻击前移厨所有的格挡。 消耗 。"
+  },
+  "unchainedPack:ViciousBlows": {
+    "NAME": "邪恶攻击",
+    "DESCRIPTION": "每当一名队友获得一层负面效果，启用 !M! theunchainedmod:Crushed_Armor."
+  },
+  "unchainedPack:ArcaneReversal":{
+    "NAME": "神秘逆转",
+    "DESCRIPTION": "当队友将要受到 theunchainedmod:Relayed_Damage, 他们将转而对一名随机敌人造成此伤害。"
+  },
+  "unchainedPack:GroupHug": {
+    "NAME": "群体拥抱",
+    "DESCRIPTION": "所有玩家获得 !M! theunchainedmod:Relay 和 theunchainedmod:Relay 在他们回合结束时不会减少。"
+  },
+  "unchainedPack:GlyphBauble": {
+    "NAME": "符文饰品",
+    "DESCRIPTION": " 保留 。 Play on a teammate to tiscardpack:Transfer to them with a !MP_SecondMagic!% chance to Exhaust. Increase the chance to Exhaust by 10% and double this cards theunchainedmod:Relay. Play on an enemy to gain !M! theunchainedmod:Relay. Exhaust.",
+    "UPGRADE_DESCRIPTION": " 保留 。 Play this card on a teammate to tiscardpack:Transfer it to that teammate with a !MP_SecondMagic!% chance to Exhaust. If it doesn't, increase the chance to Exhaust by 5% and double this card's theunchainedmod:Relay. Play it on an enemy to gain !M! theunchainedmod:Relay. Exhaust."
+  },
+  "unchainedPack:DemonicSiphon": {
+    "NAME": "恶魔虹吸",
+    "DESCRIPTION": "每名队友获得 !M! theunchainedmod:Relay .所有队友获得 !MP_SecondMagic! theunchainedmod:Relayed_Damage. 消耗 。"
+  },
+  "unchainedPack:Cheerleader": {
+    "NAME": "激励者",
+    "DESCRIPTION": "丢弃手中的所有攻击牌。每张丢弃的攻击牌都将使每名队友获得 !M! theunchainedmod:Momentum 。",
+    "UPGRADE_DESCRIPTION": "丢弃手中的所有攻击牌。丢弃的攻击牌数量加2后每张丢弃的攻击牌都将使每名队友获得 !M! theunchainedmod:Momentum 。"
+  },
+  "unchainedPack:RoyalInfluence": {
+    "NAME": "皇家势力",
+    "DESCRIPTION": "选择一张手中的卡牌并消耗它。 NL 所有玩家获得 !M! theunchainedmod:Chain: 打出你消耗的牌。 NL 此项链的类型与消耗的卡牌类型相同。 消耗 。"
+  },
+  "unchainedPack:SpaghettiArms": {
+    "NAME": "斯帕盖蒂之臂",
+    "DESCRIPTION": "一名随机队友此回合的攻击不再造成伤害，且转而使敌人获得与它将要造成的攻击伤害量相等的格挡。 消耗 。",
+    "UPGRADE_DESCRIPTION": "选择一名队友，他此回合的攻击不再造成伤害，且转而使敌人获得与它将要造成的攻击伤害量相等的格挡。 消耗 。"
+  },
+  "unchainedPack:DeepCut": {
+    "NAME": "深切",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 1 theunchainedmod:Chain: 造成 !M! 点伤害。 At the start of combat, shuffle 1 *Extension into your teammates' Draw Piles.",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 1 theunchainedmod:Chain: 造成 !M! 点伤害。 At the start of combat, shuffle 1 *Extension+ into your teammates' Draw Piles."
+  },
+  "unchainedPack:Extension": {
+    "NAME": "拓展",
+    "DESCRIPTION": "永久升级 theunchainedmod:Chain damage of an allys *Deep *Cut by !M!."
+  },
+  "unchainedPack:RoyalGlyph": {
+    "NAME": "皇家符文",
+    "DESCRIPTION": "你的队友的下一张牌将会打出两次。 消耗 。",
+    "UPGRADE_DESCRIPTION": "你的队友的下两张牌将会打出两次。 消耗 。"
+  },
+  "unchainedPack:Rehearsal": {
+    "NAME": "演习",
+    "DESCRIPTION": " 保留 。 NL tiscardpack:Transfer a *Showstopper into a random teammate's hand that deals !D! damage for each *Swirl played with this card in hand. Exhaust.",
+    "EXTENDED_DESCRIPTION": [ " NL (1 Swirl played)" ,
+      " NL (!M! Swirls played)"]
+  },
+  "unchainedPack:Showstopper": {
+    "NAME": "中断",
+    "DESCRIPTION": "造成 !D! 点伤害X次。",
+    "UPGRADE_DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      "{@@}Deal !D! damage {!M!|1= time.|@= !M! times.}"
+    ]
+  },
+  "unchainedPack:DowsingChain": {
+    "NAME": "瓦解项链",
+    "DESCRIPTION": "所有玩家获得一条 1 theunchainedmod:Chain.如果每名玩家完成 theunchainedmod:Chain,所有玩家在战斗结束后永久获得一件普通遗物, 且这张牌永久从你的卡组中移除。 消耗。",
+    "UPGRADE_DESCRIPTION": "所有玩家获得一条 1 theunchainedmod:Chain.如果每名玩家完成 theunchainedmod:Chain,所有玩家在战斗结束后永久获得一件罕见遗物, 且这张牌永久从你的卡组中移除。 消耗。"
+  },
+  "unchainedPack:DemonicBargain": {
+    "NAME": "魔鬼的交易",
+    "DESCRIPTION": "{@@}选择一名获得了 !M! theunchainedmod:Relayed_Damage 的队友,获得 [E] 并且抽 {!MP_SecondMagic!|1= card.|@= !MP_SecondMagic! cards.}"
+  }
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "PROPER_NAME": "Helper Chain",
+    "NAMES": [
+      "Helper Chain",
+      "Helper Chains",
+      "helper_chain",
+      "helper_chains",
+      "helperchain",
+      "helperchains"
+    ],
+    "DESCRIPTION": "Skill Chain with the length of 1, with the effect of either draw 1 Card, gain 6 Block, gain 5 Vigor, gain 1 Energy or gain 8 Relay."
+  }
+]
